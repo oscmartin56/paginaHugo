@@ -1,0 +1,21 @@
+baseURL = 'git@github.com:oscmartin56/paginaHugo.git'
+languageCode = "es-es"
+title = 'Web de Óscar'
+theme = "hugoblog"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+
+  [[menu.main]]
+    name = "Canales TV"
+    url = "/canalestv/"
+
+  [[menu.main]]
+    name = "Amigos"
+    url = "/amigos/"
+
+  [[menu.main]]
+    name = "Markdown"
+    url = "/markdown/"

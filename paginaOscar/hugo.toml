@@ -20,6 +20,6 @@ theme = "hugoblog"
     weight = 2
 
   [[menu.main]]
-    name = "Markdown"
-    url = "/markdown/"
+    name = "Markdown Basico"
+    url = "/markdownBasico/"
     weight = 4

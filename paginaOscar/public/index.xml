@@ -8,11 +8,22 @@
     <language>es-es</language>
     <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PlantillaJason</title>
+      <link>http://localhost:1313/paginaHugo/canalestv/</link>
+      <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/canalestv/</guid>
+      
+      <description>&lt;h1 id=&#34;listado-de-de-canales&#34;&gt;Listado de de canales&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/paginaHugo/markdown/</link>
+      <link>http://localhost:1313/paginaHugo/markdownbasico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/markdown/</guid>
+      <guid>http://localhost:1313/paginaHugo/markdownbasico/</guid>
       
       <description>&lt;h2 id=&#34;edición-básica&#34;&gt;Edición Básica&lt;/h2&gt;
 &lt;h3 id=&#34;titulos&#34;&gt;Titulos&lt;/h3&gt;
@@ -33,6 +44,17 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**texto en negrita**texto normal
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;y se verá&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Texto en negrita&lt;/strong&gt;texto normal&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/paginaHugo/amigos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/amigos/</guid>
+      
+      <description></description>
       
     </item>
     

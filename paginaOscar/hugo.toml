@@ -1,11 +1,10 @@
-title = 'Web de Óscar'
 baseURL = 'https://oscmartin56.github.io/paginaHugo/'
-defaultContentLanguage = "en-en"
+languageCode = "es-es"
+title = 'Web de Óscar'
 theme = "hugoblog"
 
 [menu]
   [[menu.main]]
-    pageRef="/"
     name = "Inicio"
     url = "/"
     weight = 1
@@ -24,17 +23,16 @@ theme = "hugoblog"
     name = "Markdown Basico"
     url = "/markdownBasico/"
     weight = 4
-    
+
   [[menu.main]]
-    name = "Markdown Gráficos"
+    name = "Markdown Gráfico"
     url = "/markdownGrafico/"
     weight = 5
-
+   
   [[menu.main]]
     name = "Markdown Extendido"
     url = "/markdownExtendido/"
     weight = 6
-
   [[menu.main]]
     name = "Java"
     url = "/java/"

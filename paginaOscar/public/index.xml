@@ -5,6 +5,36 @@
     <link>http://localhost:1313/paginaHugo/</link>
     <description>Recent content on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Fri, 04 Oct 2024 14:01:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/paginaHugo/markdown/</link>
+      <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/markdown/</guid>
+      
+      <description>&lt;h2 id=&#34;edición-básica&#34;&gt;Edición Básica&lt;/h2&gt;
+&lt;h3 id=&#34;titulos&#34;&gt;Titulos&lt;/h3&gt;
+&lt;p&gt;Para establecer los titulos usare la siguiente sintaxis&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-makefile&#34; data-lang=&#34;makefile&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#titulo1
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##titulo2
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###titulo3
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;####titulo4
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;y se verá&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;titulo1&#34;&gt;titulo1&lt;/h1&gt;
+&lt;h2 id=&#34;titulo2&#34;&gt;titulo2&lt;/h2&gt;
+&lt;h3 id=&#34;titulo3&#34;&gt;titulo3&lt;/h3&gt;
+&lt;h4 id=&#34;titulo4&#34;&gt;titulo4&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;negrita-y-formato&#34;&gt;negrita y formato&lt;/h1&gt;
+&lt;p&gt;Para ver el texto en negrita escribo&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**texto en negrita**texto normal
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;y se verá&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Texto en negrita&lt;/strong&gt;texto normal&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

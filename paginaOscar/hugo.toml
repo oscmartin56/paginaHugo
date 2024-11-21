@@ -1,4 +1,4 @@
-baseURL = 'git@github.com:oscmartin56/paginaHugo.git'
+baseURL = 'https://oscmartin56.github.io/paginaHugo/'
 languageCode = "es-es"
 title = 'Web de Óscar'
 theme = "hugoblog"

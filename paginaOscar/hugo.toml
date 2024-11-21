@@ -7,15 +7,19 @@ theme = "hugoblog"
   [[menu.main]]
     name = "Inicio"
     url = "/"
+    weight = 1
 
   [[menu.main]]
     name = "Canales TV"
     url = "/canalestv/"
+    weight = 3
 
   [[menu.main]]
     name = "Amigos"
     url = "/amigos/"
+    weight = 2
 
   [[menu.main]]
     name = "Markdown"
     url = "/markdown/"
+    weight = 4

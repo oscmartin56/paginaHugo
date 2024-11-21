@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web de Óscar</title>
+    <title>Inicio on Web de Óscar</title>
     <link>http://localhost:1313/paginaHugo/</link>
-    <description>Recent content on Web de Óscar</description>
+    <description>Recent content in Inicio on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 04 Oct 2024 14:01:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/paginaHugo/markdown/</link>

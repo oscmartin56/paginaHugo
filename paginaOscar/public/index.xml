@@ -5,7 +5,7 @@
     <link>http://localhost:1313/paginaHugo/</link>
     <description>Recent content in Inicio on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
+    <language>en</language>
     <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PlantillaJason</title>
@@ -28,9 +28,20 @@
       <description>&lt;p&gt;Unas cuantas fotos de mi y mis amigos en estos años&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-disfraces-&#34;&gt;Foto de Disfraces 🎭&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/1.jpg&#34; alt=&#34;Foto Disfraces&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;img alt=&#34;Foto Disfraces&#34; src=&#34;img/1.jpg&#34;&gt;&lt;br&gt;
 &lt;strong&gt;Descripción:&lt;/strong&gt; Disfraces de 2023 con temática de los juegos olímpicos&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;hr&gt;
+&lt;h3 id=&#34;foto-de-graduación-&#34;&gt;Foto de Graduación 🎓&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Foto Graduación&#34; src=&#34;http://localhost:1313/paginaHugo/img/2.jpg&#34;&gt;&lt;br&gt;
+&lt;strong&gt;Descripción:&lt;/strong&gt; Foto de graduación de bachillerato&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;foto-de-año-nuevo-1-&#34;&gt;Foto de Año Nuevo 1 🎇&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Foto año nuevo 1&#34; src=&#34;http://localhost:1313/paginaHugo/img/4.jpg&#34;&gt;&lt;br&gt;
+&lt;strong&gt;Descripción:&lt;/strong&gt; Foto de año nuevo de 2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;foto-de-año-nuevo-2-&#34;&gt;Foto de Año Nuevo 2 🎆&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Foto año nuevo 2&#34; src=&#34;http://localhost:1313/paginaHugo/img/3.jpg&#34;&gt;&lt;br&gt;
+&lt;strong&gt;Descripción:&lt;/strong&gt; Foto de año nuevo de 2023&lt;/p&gt;</description>
       
     </item>
     
@@ -118,19 +129,19 @@ Organización temática o categorizada para mejorar la presentación visual.&lt;
 &lt;h1 id=&#34;galería-de-fotos&#34;&gt;Galería de Fotos&lt;/h1&gt;
 &lt;p&gt;Aquí puedes ver una selección de imágenes destacadas.&lt;/p&gt;
 &lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/java.jpg&#34; alt=&#34;Java&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Java&#34; src=&#34;http://localhost:1313/paginaHugo/img/java.jpg&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/python.png&#34; alt=&#34;Python&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Python&#34; src=&#34;http://localhost:1313/paginaHugo/img/python.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c++.png&#34; alt=&#34;C++&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;C++&#34; src=&#34;http://localhost:1313/paginaHugo/img/c++.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;c-1&#34;&gt;C#&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c#.png&#34; alt=&#34;C#&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;C#&#34; src=&#34;http://localhost:1313/paginaHugo/img/c#.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/php.png&#34; alt=&#34;PHP&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;PHP&#34; src=&#34;http://localhost:1313/paginaHugo/img/php.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;</description>
       
     </item>

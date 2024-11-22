@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/paginaHugo/canalestv/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/paginaHugo/amigos/</loc>
+    <lastmod>2024-10-14T11:01:25+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/paginaHugo/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
@@ -19,8 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/paginaHugo/markdowngrafico/</loc>
     <lastmod>2024-10-04T14:01:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/paginaHugo/amigos/</loc>
   </url><url>
     <loc>http://localhost:1313/paginaHugo/categories/</loc>
   </url><url>

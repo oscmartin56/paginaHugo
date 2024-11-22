@@ -1,5 +1,5 @@
 baseURL = 'https://oscmartin56.github.io/paginaHugo/'
-languageCode = "es-es"
+languageCode = "en-en"
 title = 'Web de Óscar'
 theme = "hugoblog"
 
@@ -20,7 +20,7 @@ theme = "hugoblog"
     weight = 2
 
   [[menu.main]]
-    name = "Markdown Basico"
+    name = "Markdown Básico"
     url = "/markdownBasico/"
     weight = 4
 
@@ -28,12 +28,25 @@ theme = "hugoblog"
     name = "Markdown Gráfico"
     url = "/markdownGrafico/"
     weight = 5
-   
+
   [[menu.main]]
     name = "Markdown Extendido"
     url = "/markdownExtendido/"
     weight = 6
+
   [[menu.main]]
     name = "Java"
     url = "/java/"
     weight = 7
+
+[languages]
+  [languages.en]
+    languageName = "Español"
+    weight = 1
+    mainSections = ["canalestv", "amigos", "markdownBasico", "markdownGrafico", "markdownExtendido", "java"]
+    toc = true
+    tocOpen = false
+    goToTop = true
+    additionalScripts = ['js/custom.js', 'js/custom-2.js']
+    dateFormat = "" 
+    rssFeedDescription = "summary"

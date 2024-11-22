@@ -39,14 +39,4 @@ theme = "hugoblog"
     url = "/java/"
     weight = 7
 
-[languages]
-  [languages.en]
-    languageName = "Español"
-    weight = 1
-    mainSections = ["canalestv", "amigos", "markdownBasico", "markdownGrafico", "markdownExtendido", "java"]
-    toc = true
-    tocOpen = false
-    goToTop = true
-    additionalScripts = ['js/custom.js', 'js/custom-2.js']
-    dateFormat = "" 
-    rssFeedDescription = "summary"
+

@@ -5,6 +5,6 @@
     <link>http://localhost:1313/paginaHugo/categories/</link>
     <description>Recent content in Categories on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/paginaHugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-en</language><atom:link href="http://localhost:1313/paginaHugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -129,19 +129,19 @@ Organización temática o categorizada para mejorar la presentación visual.&lt;
 &lt;h1 id=&#34;galería-de-fotos&#34;&gt;Galería de Fotos&lt;/h1&gt;
 &lt;p&gt;Aquí puedes ver una selección de imágenes destacadas.&lt;/p&gt;
 &lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/java.jpg&#34; alt=&#34;Java&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;java.jpg&#34; alt=&#34;Java&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/python.png&#34; alt=&#34;Python&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;python.png&#34; alt=&#34;Python&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c++.png&#34; alt=&#34;C++&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;c++.png&#34; alt=&#34;C++&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;c-1&#34;&gt;C#&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c#.png&#34; alt=&#34;C#&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cc.png&#34; alt=&#34;C#&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/php.png&#34; alt=&#34;PHP&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;php.png&#34; alt=&#34;PHP&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;</description>
       
     </item>

@@ -17,30 +17,30 @@ Aquí puedes ver una selección de imágenes destacadas.
 
 ## Java
 
-![Java](/img/java.jpg)
+![Java](java.jpg)
 
 ---
 
 ## Python
 
-![Python](/img/python.png)
+![Python](python.png)
 
 ---
 
 ## C++
 
-![C++](/img/c++.png)
+![C++](c++.png)
 
 ---
 
 ## C#
 
-![C#](/img/c#.png)
+![C#](cc.png)
 
 ---
 
 ## PHP
 
-![PHP](/img/php.png)
+![PHP](php.png)
 
 ---

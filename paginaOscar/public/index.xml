@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web de Óscar</title>
+    <title>Inicio on Web de Óscar</title>
     <link>http://localhost:1313/paginaHugo/</link>
-    <description>Recent content on Web de Óscar</description>
+    <description>Recent content in Inicio on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PlantillaJason</title>
-      <link>http://localhost:1313/paginaHugo/en/canalestv/</link>
+      <link>http://localhost:1313/paginaHugo/canalestv/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/canalestv/</guid>
+      <guid>http://localhost:1313/paginaHugo/canalestv/</guid>
       
       <description>&lt;h1 id=&#34;listado-de-de-canales&#34;&gt;Listado de de canales&lt;/h1&gt;</description>
       
@@ -20,37 +20,37 @@
     
     <item>
       <title>Amigos</title>
-      <link>http://localhost:1313/paginaHugo/en/amigos/</link>
+      <link>http://localhost:1313/paginaHugo/amigos/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/amigos/</guid>
+      <guid>http://localhost:1313/paginaHugo/amigos/</guid>
       
-      <description>&lt;p&gt;Unas cuantas fotos de mi y mis amigos en estos años&lt;/p&gt;
+      <description>&lt;p&gt;Unas cuantas fotossss de mi y mis amigos en estos años&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-disfraces-&#34;&gt;Foto de Disfraces 🎭&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;img/1.jpg&#34; alt=&#34;Foto Disfraces&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;Foto Disfraces&#34;&gt;&lt;br&gt;
 &lt;strong&gt;Descripción:&lt;/strong&gt; Disfraces de 2023 con temática de los juegos olímpicos&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-graduación-&#34;&gt;Foto de Graduación 🎓&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/2.jpg&#34; alt=&#34;Foto Graduación&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;Foto Graduación&#34;&gt;&lt;br&gt;
 &lt;strong&gt;Descripción:&lt;/strong&gt; Foto de graduación de bachillerato&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-año-nuevo-1-&#34;&gt;Foto de Año Nuevo 1 🎇&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/4.jpg&#34; alt=&#34;Foto año nuevo 1&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;4.jpg&#34; alt=&#34;Foto año nuevo 1&#34;&gt;&lt;br&gt;
 &lt;strong&gt;Descripción:&lt;/strong&gt; Foto de año nuevo de 2022&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-año-nuevo-2-&#34;&gt;Foto de Año Nuevo 2 🎆&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/3.jpg&#34; alt=&#34;Foto año nuevo 2&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;3.jpg&#34; alt=&#34;Foto año nuevo 2&#34;&gt;&lt;br&gt;
 &lt;strong&gt;Descripción:&lt;/strong&gt; Foto de año nuevo de 2023&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Markdown Extendido</title>
-      <link>http://localhost:1313/paginaHugo/en/markdownextendido/</link>
+      <link>http://localhost:1313/paginaHugo/markdownextendido/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/markdownextendido/</guid>
+      <guid>http://localhost:1313/paginaHugo/markdownextendido/</guid>
       
       <description>&lt;p&gt;Markdown extendido incluye elementos avanzados como tablas, bloques de código, citas, y enlaces detallados. Es ideal para documentación técnica o contenido más estructurado.&lt;/p&gt;
 &lt;p&gt;Características principales:
@@ -64,10 +64,10 @@ Enlaces y recursos: Hipervínculos a documentación o archivos externos.&lt;/p&g
     
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/paginaHugo/en/java/</link>
+      <link>http://localhost:1313/paginaHugo/java/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/java/</guid>
+      <guid>http://localhost:1313/paginaHugo/java/</guid>
       
       <description>&lt;h1 id=&#34;1-introducción-a-java&#34;&gt;1. Introducción a Java&lt;/h1&gt;
 &lt;p&gt;Java es un lenguaje de programación orientado a objetos, diseñado para ser portátil, seguro y escalable. Su sintaxis es similar a C++, y permite crear aplicaciones para diversos dispositivos, como móviles y servidores.&lt;/p&gt;
@@ -87,10 +87,10 @@ Ejemplo de declaración de variables:&lt;/p&gt;</description>
     
     <item>
       <title>Markdown Básico</title>
-      <link>http://localhost:1313/paginaHugo/en/markdownbasico/</link>
+      <link>http://localhost:1313/paginaHugo/markdownbasico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/markdownbasico/</guid>
+      <guid>http://localhost:1313/paginaHugo/markdownbasico/</guid>
       
       <description>&lt;h2 id=&#34;edición-básica&#34;&gt;Edición Básica&lt;/h2&gt;
 &lt;h3 id=&#34;titulos&#34;&gt;Titulos&lt;/h3&gt;
@@ -116,10 +116,10 @@ Ejemplo de declaración de variables:&lt;/p&gt;</description>
     
     <item>
       <title>Markdown Gráfico</title>
-      <link>http://localhost:1313/paginaHugo/en/markdowngrafico/</link>
+      <link>http://localhost:1313/paginaHugo/markdowngrafico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>http://localhost:1313/paginaHugo/en/markdowngrafico/</guid>
+      <guid>http://localhost:1313/paginaHugo/markdowngrafico/</guid>
       
       <description>&lt;p&gt;Markdown gráfico se especializa en mostrar contenido visual, como imágenes, diagramas, gráficos y elementos relacionados. Es ideal para galerías de fotos o ilustrar conceptos visuales.&lt;/p&gt;
 &lt;p&gt;Características principales:

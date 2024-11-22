@@ -4,6 +4,15 @@ date = 2024-10-14T11:01:25+02:00
 draft = false
 +++
 
+Markdown extendido incluye elementos avanzados como tablas, bloques de código, citas, y enlaces detallados. Es ideal para documentación técnica o contenido más estructurado.
+
+Características principales:
+Tablas: Para estructurar datos en formato de filas y columnas.
+Bloques de código: Formato especial para incluir fragmentos de código.
+Citas: Para destacar información o incluir referencias textuales.
+Listas avanzadas: Con viñetas anidadas y múltiples niveles.
+Enlaces y recursos: Hipervínculos a documentación o archivos externos.
+
 # Documentación Extendida: Markdown Avanzado
 
 Elementos avanzados del formato Markdown.

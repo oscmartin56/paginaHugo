@@ -1,33 +1,46 @@
++++
+title = 'Markdown Gráfico'
+date = 2024-10-04T14:01:01+02:00
+draft = false
++++
+
+Markdown gráfico se especializa en mostrar contenido visual, como imágenes, diagramas, gráficos y elementos relacionados. Es ideal para galerías de fotos o ilustrar conceptos visuales.
+
+Características principales:
+Uso extensivo de imágenes con descripciones.
+Posibilidad de incluir gráficos e infografías.
+Organización temática o categorizada para mejorar la presentación visual.
+
 # Galería de Fotos
 
 Aquí puedes ver una selección de imágenes destacadas.
 
-## Foto 1: Atardecer
+## Java
 
-![Atardecer en la playa](/img/atardecer.jpg)
-
-## Foto 2: Montañas Nevadas
-
-![Montañas nevadas](/img/montanas-nevadas.jpg)
-
-## Foto 3: Ciudad Nocturna
-
-![Luces de la ciudad por la noche](/img/ciudad-nocturna.jpg)
+![Java](/img/java.jpg)
 
 ---
 
-## Infografía: Impacto del Cambio Climático
+## Python
 
-A continuación, se muestra una infografía relacionada con el cambio climático.
-
-![Infografía del cambio climático](/img/infografia-cambio-climatico.png)
+![Python](/img/python.png)
 
 ---
 
-## Gráfico: Crecimiento del Uso de Energías Renovables
+## C++
 
-![Gráfico de uso de energías renovables](/img/grafico-energias-renovables.jpg)
+![C++](/img/c++.png)
 
 ---
 
-_Agrega una descripción visual para cada imagen que permita una mejor comprensión del contenido._
+## C#
+
+![C#](/img/c#.png)
+
+---
+
+## PHP
+
+![PHP](/img/php.png)
+
+---

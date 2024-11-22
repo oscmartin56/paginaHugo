@@ -19,75 +19,47 @@
     </item>
     
     <item>
-      <title>Amigos</title>
-      <link>http://localhost:1313/paginaHugo/amigos/</link>
-      <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
-      
-      <guid>http://localhost:1313/paginaHugo/amigos/</guid>
-      
-      <description>&lt;p&gt;FOTOS DE MIS AMIGOS&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/images/rezero.png&#34; alt=&#34;Imagen de prueba&#34;&gt;
-&lt;img src=&#34;https://a.storyblok.com/f/178900/1200x675/ccb1d579ba/rezero-s3-base-assets-16x9.png&#34; alt=&#34;Imagen de prueba&#34;&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Markdown Extendido</title>
       <link>http://localhost:1313/paginaHugo/markdownextendido/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
       <guid>http://localhost:1313/paginaHugo/markdownextendido/</guid>
       
-      <description>&lt;h1 id=&#34;documentación-extendida-markdown-avanzado&#34;&gt;Documentación Extendida: Markdown Avanzado&lt;/h1&gt;
-&lt;p&gt;Elementos avanzados del formato Markdown.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;tablas&#34;&gt;&lt;strong&gt;Tablas&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Las tablas son útiles para organizar datos estructurados.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Elemento&lt;/th&gt;
-          &lt;th&gt;Descripción&lt;/th&gt;
-          &lt;th&gt;Ejemplo&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Encabezado&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Define el título de una sección&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;# Encabezado&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Lista&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Crea una lista ordenada o desordenada&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;- Elemento&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Enlace&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Agrega un enlace externo o interno&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;[Texto](URL)&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;bloques-de-código&#34;&gt;&lt;strong&gt;Bloques de Código&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Podemos incluir fragmentos de código con un formato claro y legible.&lt;/p&gt;
-&lt;h3 id=&#34;ejemplo-de-código-html&#34;&gt;Ejemplo de código HTML:&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;es&amp;#34;&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Ejemplo&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;¡Hola, mundo!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Markdown extendido incluye elementos avanzados como tablas, bloques de código, citas, y enlaces detallados. Es ideal para documentación técnica o contenido más estructurado.&lt;/p&gt;
+&lt;p&gt;Características principales:
+Tablas: Para estructurar datos en formato de filas y columnas.
+Bloques de código: Formato especial para incluir fragmentos de código.
+Citas: Para destacar información o incluir referencias textuales.
+Listas avanzadas: Con viñetas anidadas y múltiples niveles.
+Enlaces y recursos: Hipervínculos a documentación o archivos externos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Markdown</title>
+      <title>Java</title>
+      <link>http://localhost:1313/paginaHugo/java/</link>
+      <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/java/</guid>
+      
+      <description>&lt;h1 id=&#34;1-introducción-a-java&#34;&gt;1. Introducción a Java&lt;/h1&gt;
+&lt;p&gt;Java es un lenguaje de programación orientado a objetos, diseñado para ser portátil, seguro y escalable. Su sintaxis es similar a C++, y permite crear aplicaciones para diversos dispositivos, como móviles y servidores.&lt;/p&gt;
+&lt;h2 id=&#34;2-primer-programa-en-java&#34;&gt;2. Primer Programa en Java&lt;/h2&gt;
+&lt;p&gt;Un programa básico en Java consiste en crear una clase con un método main, que es el punto de entrada del programa.
+Ejemplo:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HolaMundo&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;¡Hola, Mundo!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-tipos-de-datos-y-variables&#34;&gt;3. Tipos de Datos y Variables&lt;/h2&gt;
+&lt;p&gt;Java tiene tipos de datos primitivos como int, double, char, boolean y String para cadenas de texto.
+Ejemplo de declaración de variables:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Básico</title>
       <link>http://localhost:1313/paginaHugo/markdownbasico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
@@ -111,45 +83,50 @@
 &lt;p&gt;Para ver el texto en negrita escribo&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**texto en negrita**texto normal
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;y se verá&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Texto en negrita&lt;/strong&gt;texto normal&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Texto en negrita&lt;/strong&gt; texto normal&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/paginaHugo/java/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/paginaHugo/java/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Markdown Gráfico</title>
       <link>http://localhost:1313/paginaHugo/markdowngrafico/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
       <guid>http://localhost:1313/paginaHugo/markdowngrafico/</guid>
       
-      <description>&lt;h1 id=&#34;galería-de-fotos&#34;&gt;Galería de Fotos&lt;/h1&gt;
+      <description>&lt;p&gt;Markdown gráfico se especializa en mostrar contenido visual, como imágenes, diagramas, gráficos y elementos relacionados. Es ideal para galerías de fotos o ilustrar conceptos visuales.&lt;/p&gt;
+&lt;p&gt;Características principales:
+Uso extensivo de imágenes con descripciones.
+Posibilidad de incluir gráficos e infografías.
+Organización temática o categorizada para mejorar la presentación visual.&lt;/p&gt;
+&lt;h1 id=&#34;galería-de-fotos&#34;&gt;Galería de Fotos&lt;/h1&gt;
 &lt;p&gt;Aquí puedes ver una selección de imágenes destacadas.&lt;/p&gt;
-&lt;h2 id=&#34;foto-1-atardecer&#34;&gt;Foto 1: Atardecer&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/atardecer.jpg&#34; alt=&#34;Atardecer en la playa&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;foto-2-montañas-nevadas&#34;&gt;Foto 2: Montañas Nevadas&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/montanas-nevadas.jpg&#34; alt=&#34;Montañas nevadas&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;foto-3-ciudad-nocturna&#34;&gt;Foto 3: Ciudad Nocturna&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/ciudad-nocturna.jpg&#34; alt=&#34;Luces de la ciudad por la noche&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/java.jpg&#34; alt=&#34;Java&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;infografía-impacto-del-cambio-climático&#34;&gt;Infografía: Impacto del Cambio Climático&lt;/h2&gt;
-&lt;p&gt;A continuación, se muestra una infografía relacionada con el cambio climático.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/infografia-cambio-climatico.png&#34; alt=&#34;Infografía del cambio climático&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/python.png&#34; alt=&#34;Python&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;gráfico-crecimiento-del-uso-de-energías-renovables&#34;&gt;Gráfico: Crecimiento del Uso de Energías Renovables&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/grafico-energias-renovables.jpg&#34; alt=&#34;Gráfico de uso de energías renovables&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c++.png&#34; alt=&#34;C++&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Agrega una descripción visual para cada imagen que permita una mejor comprensión del contenido.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;c-1&#34;&gt;C#&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/c#.png&#34; alt=&#34;C#&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/paginaHugo/img/php.png&#34; alt=&#34;PHP&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/paginaHugo/amigos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/amigos/</guid>
+      
+      <description></description>
       
     </item>
     

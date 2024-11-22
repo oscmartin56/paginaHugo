@@ -1,5 +1,5 @@
 +++
-title = 'Markdown'
+title = 'Markdown Básico'
 date = 2024-10-04T14:01:01+02:00
 draft = false
 +++
@@ -41,4 +41,4 @@ Para ver el texto en negrita escribo
 
 y se verá
 
-**Texto en negrita**texto normal
+**Texto en negrita** texto normal

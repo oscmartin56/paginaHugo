@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/paginaHugo/amigos/</guid>
       
-      <description>&lt;p&gt;Unas cuantas fotossss de mi y mis amigos en estos años&lt;/p&gt;
+      <description>&lt;p&gt;Unas cuantas fotos de mis amigos y yo en estos ultimos años.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;foto-de-disfraces-&#34;&gt;Foto de Disfraces 🎭&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;Foto Disfraces&#34;&gt;&lt;br&gt;
@@ -59,6 +59,33 @@ Bloques de código: Formato especial para incluir fragmentos de código.
 Citas: Para destacar información o incluir referencias textuales.
 Listas avanzadas: Con viñetas anidadas y múltiples niveles.
 Enlaces y recursos: Hipervínculos a documentación o archivos externos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:1313/paginaHugo/inicio/</link>
+      <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/paginaHugo/inicio/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;yo.jpg&#34; alt=&#34;Foto mia&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h1&gt;
+&lt;p&gt;Hola, me llamo Óscar, soy de Calamocha un pueblo de Teruel, y actualmente estoy estudiando segundo de un grado de Desarrollo de aplicaciones web en Zaragoza.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;🎓 &lt;strong&gt;Formación:&lt;/strong&gt;
+-Bachillerato de Ciencias
+-B2.1 en Ingles
+-A2 en Francés&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💼 &lt;strong&gt;Experiencia:&lt;/strong&gt;
+Carezco de experiencia laboral pero estoy ansioso de empezar a trabajar,aprender y demostrar todo lo que sé.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🚀 &lt;strong&gt;Habilidades principales:&lt;/strong&gt;
+Mis habilidades principales son mis capacidades de desarrollo antes problemas complejosm y sé lenguajes como Java, Java Script, PHP entre muchos otros.&lt;/p&gt;</description>
       
     </item>
     

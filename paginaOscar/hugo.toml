@@ -5,8 +5,8 @@ theme = "hugoblog"
 
 [menu]
   [[menu.main]]
-    name = "Inicio"
-    url = "/"
+    name = "inicio"
+    url = "/inicio/"
     weight = 1
 
   [[menu.main]]

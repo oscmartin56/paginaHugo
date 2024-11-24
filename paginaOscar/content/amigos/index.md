@@ -4,7 +4,7 @@ date = 2024-10-14T11:01:25+02:00
 draft = false
 +++
 
-Unas cuantas fotossss de mi y mis amigos en estos años
+Unas cuantas fotos de mis amigos y yo en estos ultimos años.
 
 ---
 

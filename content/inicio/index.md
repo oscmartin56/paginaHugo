@@ -11,9 +11,9 @@ draft = false
 Hola, me llamo Óscar, soy de Calamocha un pueblo de Teruel, y actualmente estoy estudiando segundo de un grado de Desarrollo de aplicaciones web en Zaragoza.
 
 - 🎓 **Formación:**
-  -Bachillerato de Ciencias
+  {{< highlight >}}-Bachillerato de Ciencias
   -B2.1 en Ingles
-  -A2 en Francés
+  -A2 en Francés {{< / highlight >}}
 
 - 💼 **Experiencia:**
   Carezco de experiencia laboral pero estoy ansioso de empezar a trabajar,aprender y demostrar todo lo que sé.

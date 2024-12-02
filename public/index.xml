@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inicio on Web de Óscar</title>
+    <title>Sobre mi on Web de Óscar</title>
     <link>http://localhost:1313/paginaHugo/</link>
-    <description>Recent content in Inicio on Web de Óscar</description>
+    <description>Recent content in Sobre mi on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
@@ -75,9 +75,12 @@ Enlaces y recursos: Hipervínculos a documentación o archivos externos.&lt;/p&g
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;🎓 &lt;strong&gt;Formación:&lt;/strong&gt;
--Bachillerato de Ciencias
--B2.1 en Ingles
--A2 en Francés&lt;/p&gt;
+&lt;span style=&#34;background-color: #ffff99; padding: 2px 4px; border-radius: 4px;&#34;&gt;
+    -Bachillerato de Ciencias
+  -B2.1 en Ingles
+  -A2 en Francés 
+&lt;/span&gt;
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;💼 &lt;strong&gt;Experiencia:&lt;/strong&gt;
